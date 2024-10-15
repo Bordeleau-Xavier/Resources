@@ -6,7 +6,7 @@
 
 **Computer Science in general**
  
-[The Imposter's Handbook (Imposter's Handbook, #1)  ](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+- [The Imposter's Handbook (Imposter's Handbook, #1)  ](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
 **Articles**
  
