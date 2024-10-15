@@ -23,36 +23,36 @@
 - [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 - [Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
 - [You should keep a developer’s journal](https://stackoverflow.blog/2024/05/22/you-should-keep-a-developer-s-journal/)
-- https://github.com/zakirullin/cognitive-load
-- https://www.alexmolas.com/2024/06/06/good-code.html
-- https://olano.dev/blog/a-note-on-essential-complexity
-- https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/ 
-- https://mbuffett.com/posts/programming-advice-younger-self
+- [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
+- [Good code is rarely read](https://www.alexmolas.com/2024/06/06/good-code.html)
+- [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
+- [Programming mantras are proverbs](https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/)
+- [A Bunch of Programming Advice I’d Give To Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self)
 
 **Business culture**
  
-- https://stackoverflow.blog/2024/06/19/the-real-10x-developer-makes-their-whole-team-better/?utm_source=tldrwebdev
-- https://www.thecaringtechie.com/p/managing-up-irinas-version
-- https://zaidesanton.substack.com/p/most-micromanagers-are-blind-to-being
-- https://ochagavia.nl/blog/the-undercover-generalist/
-- https://www.hillelwayne.com/post/software-friction/
+- [The real 10x developer makes their whole team better](https://stackoverflow.blog/2024/06/19/the-real-10x-developer-makes-their-whole-team-better)
+- [Managing Up (Irina’s Version): How to Meet The Unspoken Needs of Your Manager ](https://www.thecaringtechie.com/p/managing-up-irinas-version)
+- [Most micromanagers are blind to being seen as one](https://zaidesanton.substack.com/p/most-micromanagers-are-blind-to-being)
+- [The undercover generalist](https://ochagavia.nl/blog/the-undercover-generalist/)
+- [Software Friction](https://www.hillelwayne.com/post/software-friction/)
  
 **Code Reviews**
  
-- https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/
-- https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/?utm_source=tldrwebdev
-- [https://glia.engineering/the-case-for-synchronous-code-reviews-51a19b76b7b7 ](https://glia.engineering/the-case-for-synchronous-code-reviews-51a19b76b7b7)
-- https://www.awwsmm.com/blog/drop-everything-and-review?utm_source=tldrwebdev  
-- https://tmsd.substack.com/p/code-review-the-author-mindset-matters
-- https://read.highgrowthengineer.com/p/exactly-what-to-say-in-code-reviews
+- [Code review antipatterns ](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
+- [How to review code effectively: A GitHub staff engineer’s philosophy](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy)
+- [The case for synchronous code reviews](https://glia.engineering/the-case-for-synchronous-code-reviews-51a19b76b7b7)
+- [Drop Everything and Review](https://www.awwsmm.com/blog/drop-everything-and-review)
+- [Code Review: The Author: Mindset Matters](https://tmsd.substack.com/p/code-review-the-author-mindset-matters)
+- [Exactly what to say in code reviews](https://read.highgrowthengineer.com/p/exactly-what-to-say-in-code-reviews)
 
 **Documentation**
  
-- https://martinfowler.com/bliki/CodeAsDocumentation.html
+- [Code As Documentation](https://martinfowler.com/bliki/CodeAsDocumentation.html)
 
 **Technical Debt**
  
-- https://martinfowler.com/bliki/TechnicalDebt.html
+- [Technical Debt](https://martinfowler.com/bliki/TechnicalDebt.html)
 (I’d add to this one that one of the most prominent pitfalls of technical debt is Bad Debt Perception. You have someone who is very used to working a part of your codebase that is “technically indebted”, but that person ends up being so good at navigating the debt that it isn’t recognized as such. Debt that you aren’t aware of is the kind that hurts the most, as that skews every and any estimation.)
 
 **Mindset/Attitude**
@@ -60,14 +60,14 @@
 - [Strong opinions loosely held](https://www.vinayraghu.com/blog/strong-opinions-loosely-held)
 - [On being a senior engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 - [Be kind](https://boz.com/articles/be-kind)
-- https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b
-- https://world.hey.com/dhh/programmers-should-stop-celebrating-incompetence-de1a4725
-- https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/
-- https://josebrowne.com/on-coding-ego-and-attention/
-- https://puppycoding.com/2023/07/22/healthy-coding-habits/ 
-- https://dodov.dev/blog/high-functioning-workaholism
-- https://shiftmag.dev/fighting-distractions-as-a-software-developer-3175/
-- https://sourcegraph.com/blog/developer-productivity-thoughts
+- [Ten Principles for Growth as an Engineer](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b)
+- [Programmers should stop celebrating incompetence](https://world.hey.com/dhh/programmers-should-stop-celebrating-incompetence-de1a4725)
+- [7 Absolute Truths I Unlearned as Junior Developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
+- [On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/)
+- [The Most Important Coding Habits](https://puppycoding.com/2023/07/22/healthy-coding-habits/)
+- [High-Functioning Workaholism: Work less to accomplish more](https://dodov.dev/blog/high-functioning-workaholism)
+- [There is always something: Fighting distractions as a software developer](https://shiftmag.dev/fighting-distractions-as-a-software-developer-3175/)
+- [A dev's thoughts on developer productivity](https://sourcegraph.com/blog/developer-productivity-thoughts)
   
 **Other**
  
