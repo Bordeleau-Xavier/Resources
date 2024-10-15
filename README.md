@@ -71,9 +71,9 @@
   
 **Other**
  
-[Practical Engineering Management | Mirek Stanek | Substack ](https://www.practicalengineering.management/)
-[GitHub - charlax/professional-programming: A collection of learning resources for curious software engineers](https://github.com/charlax/professional-programming)
-[GitHub - liuchong/awesome-roadmaps: A curated list of roadmaps.](https://www.neilwithdata.com/mathematics-self-learner)
-[Mathematics for the adventurous self-learner | Neil Sainsbury ](https://www.neilwithdata.com/mathematics-self-learner)
-[Red Hat IT topics ](https://www.redhat.com/en/topics)
-[martinfowler.com ](https://martinfowler.com/)
+- [Practical Engineering Management | Mirek Stanek | Substack ](https://www.practicalengineering.management/)
+- [GitHub - charlax/professional-programming: A collection of learning resources for curious software engineers](https://github.com/charlax/professional-programming)
+- [GitHub - liuchong/awesome-roadmaps: A curated list of roadmaps.](https://www.neilwithdata.com/mathematics-self-learner)
+- [Mathematics for the adventurous self-learner | Neil Sainsbury ](https://www.neilwithdata.com/mathematics-self-learner)
+- [Red Hat IT topics](https://www.redhat.com/en/topics)
+- [martinfowler.com](https://martinfowler.com/)
