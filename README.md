@@ -1,4 +1,4 @@
-<b>Books</b>
+**Books**
  
 **Software Engineering Philosophy**
 
@@ -17,17 +17,25 @@
 
 **Coding good practices**
  
-- [Write code that you can understand when you get paged at 2am](https://www.pcloadletter.dev/blog/clever-code/)
 - [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 - [Famous Laws of Software Development](https://www.timsommer.be/famous-laws-of-software-development/)
-- [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
-- [Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
 - [You should keep a developer’s journal](https://stackoverflow.blog/2024/05/22/you-should-keep-a-developer-s-journal/)
 - [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
 - [Good code is rarely read](https://www.alexmolas.com/2024/06/06/good-code.html)
-- [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
 - [Programming mantras are proverbs](https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/)
 - [A Bunch of Programming Advice I’d Give To Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self)
+- [Be suspicious of success](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)
+
+**Architecture**
+
+- [Write code that you can understand when you get paged at 2am](https://www.pcloadletter.dev/blog/clever-code/)
+- [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+- [Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
+- [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
+  
+**Algorithms**
+
+-[Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 
 **Business culture**
  
