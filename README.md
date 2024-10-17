@@ -35,7 +35,7 @@
   
 **Algorithms**
 
--[Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+- [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 
 **Business culture**
  
