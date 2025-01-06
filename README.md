@@ -32,6 +32,7 @@
 - [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 - [Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
 - [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
+- [Software Design is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building)
   
 **Algorithms**
 
