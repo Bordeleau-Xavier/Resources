@@ -63,7 +63,7 @@
  
 - [Technical Debt](https://martinfowler.com/bliki/TechnicalDebt.html)
 - [Tech Debt? I don't believe it exists.](https://dadrian.io/blog/posts/tech-debt)
-(I’d add to this one that one of the most prominent pitfalls of technical debt is Bad Debt Perception. You have someone who is very used to working a part of your codebase that is “technically indebted”, but that person ends up being so good at navigating the debt that it isn’t recognized as such. Debt that you aren’t aware of is the kind that hurts the most, as that skews every and any estimation.)
+
 
 **Mindset/Attitude**
  
