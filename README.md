@@ -87,3 +87,4 @@
 - [Mathematics for the adventurous self-learner | Neil Sainsbury ](https://www.neilwithdata.com/mathematics-self-learner)
 - [Red Hat IT topics](https://www.redhat.com/en/topics)
 - [martinfowler.com](https://martinfowler.com/)
+- [I'm a never nester](https://www.youtube.com/watch?v=CFRhGnuXG-4)
